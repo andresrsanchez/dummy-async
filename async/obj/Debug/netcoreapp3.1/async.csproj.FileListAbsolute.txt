@@ -1,0 +1,13 @@
+C:\dev\fun\async\async\async\bin\Debug\netcoreapp3.1\async.exe
+C:\dev\fun\async\async\async\bin\Debug\netcoreapp3.1\async.deps.json
+C:\dev\fun\async\async\async\bin\Debug\netcoreapp3.1\async.runtimeconfig.json
+C:\dev\fun\async\async\async\bin\Debug\netcoreapp3.1\async.runtimeconfig.dev.json
+C:\dev\fun\async\async\async\bin\Debug\netcoreapp3.1\async.dll
+C:\dev\fun\async\async\async\bin\Debug\netcoreapp3.1\async.pdb
+C:\dev\fun\async\async\async\obj\Debug\netcoreapp3.1\async.csprojAssemblyReference.cache
+C:\dev\fun\async\async\async\obj\Debug\netcoreapp3.1\async.AssemblyInfoInputs.cache
+C:\dev\fun\async\async\async\obj\Debug\netcoreapp3.1\async.AssemblyInfo.cs
+C:\dev\fun\async\async\async\obj\Debug\netcoreapp3.1\async.csproj.CoreCompileInputs.cache
+C:\dev\fun\async\async\async\obj\Debug\netcoreapp3.1\async.dll
+C:\dev\fun\async\async\async\obj\Debug\netcoreapp3.1\async.pdb
+C:\dev\fun\async\async\async\obj\Debug\netcoreapp3.1\async.genruntimeconfig.cache
